@@ -1,0 +1,15 @@
+c:\users\gbuljba\documents\visual studio 2015\Projects\Zad1\Zad1\bin\Debug\Zad1.exe.config
+c:\users\gbuljba\documents\visual studio 2015\Projects\Zad1\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+c:\users\gbuljba\documents\visual studio 2015\Projects\Zad1\Zad1\bin\Debug\Zad1.exe
+c:\users\gbuljba\documents\visual studio 2015\Projects\Zad1\Zad1\bin\Debug\Zad1.pdb
+c:\users\gbuljba\documents\visual studio 2015\Projects\Zad1\Zad1\obj\Debug\Zad1.exe
+c:\users\gbuljba\documents\visual studio 2015\Projects\Zad1\Zad1\obj\Debug\Zad1.pdb
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad1\bin\Debug\Zad1.exe.config
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad1\obj\Debug\Zad1.exe
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad1\obj\Debug\Zad1.pdb
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad1\bin\Debug\Zad1.exe
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad1\bin\Debug\Zad1.pdb
+D:\Podaci\Evidencija\for the faks\C#\GitHub\1.-domaca-zadaca\PrvaDz\Zad1\bin\Debug\Zad1.exe.config
+D:\Podaci\Evidencija\for the faks\C#\GitHub\1.-domaca-zadaca\PrvaDz\Zad1\obj\Debug\Zad1.exe
+D:\Podaci\Evidencija\for the faks\C#\GitHub\1.-domaca-zadaca\PrvaDz\Zad1\obj\Debug\Zad1.pdb

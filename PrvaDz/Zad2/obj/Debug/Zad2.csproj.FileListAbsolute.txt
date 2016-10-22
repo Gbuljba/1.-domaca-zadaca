@@ -1,0 +1,10 @@
+c:\users\gbuljba\documents\visual studio 2015\Projects\Zad2\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\Zad2\Zad2\bin\Debug\Zad2.exe
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\Zad2\Zad2\bin\Debug\Zad2.pdb
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\Zad2\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\Zad2\Zad2\obj\Debug\Zad2.exe
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\Zad2\Zad2\obj\Debug\Zad2.pdb
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad2\obj\Debug\Zad2.exe
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad2\obj\Debug\Zad2.pdb
+C:\Users\Gbuljba\Documents\Visual Studio 2015\Projects\PrvaDz\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
